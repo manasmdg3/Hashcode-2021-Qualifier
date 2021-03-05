@@ -3,7 +3,7 @@
 ## Traffic Signaling
 
 We've taken part in solving Online Qualifications of Hash Code 2021 problem `"Traffic signaling"` for the first time. Our result was `8,137,334` points. We have improved our result in the `Extended Round` and the score was `9,505,139` points.
-You can view the question [here](https://github.com/manasmdg3/Hashcode-2021-Qualifier/blob/main/hashcode_2021_online_qualifications.pdf)
+You can view the question [here](https://github.com/manasmdg3/Hashcode-2021-Qualifier/blob/main/hashcode_2021_online_qualifications.pdf).
 
 ## Python Version
 
