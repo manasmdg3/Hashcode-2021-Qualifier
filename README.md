@@ -11,8 +11,7 @@ You can view the question [here](https://github.com/manasmdg3/Hashcode-2021-Qual
 
 ## Library Used
 
-> numpy
-> math
+> numpy, math
 
 ## Points
 
